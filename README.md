@@ -1,8 +1,13 @@
 # Computação Em Nuvem I
 Este repositório contém o resumo das lições aprendidas na matéria de Computação em Nuvem.
 
+### Metodologia
+Prática
 
-# Resumo Computação em Nuvem - 03/03/2026
+### Professor
+Odair Gabriel da Silva
+
+### Resumo Computação em Nuvem - 03/03/2026
 
 Nestas aulas, o professor ensinou alguns conceitos e configurações dos serviços do Microsoft Azure (Plataforma que irá nos ajudar ao longo das aulas).
  Entre esses recursos, colocamos como destaque:
