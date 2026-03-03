@@ -16,4 +16,4 @@ Nestas aulas, o professor ensinou alguns conceitos e configurações dos serviç
  - Serviços de Suporte e Solução de Problemas.
  - Integridade dos Serviços.
  - Personalização de imagens.
- - Máquinas virtuais.
+ - Criação de Máquinas virtuais.
